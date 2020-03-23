@@ -23,9 +23,12 @@ testes de sua preferência.
 Python 3.7.6, SQLite3
 
 # Rodando a aplicação
-No Python 3, para criar um ambiente virtual executamos no terminal (prompt de comando):
+No Python 3, para criar um ambiente virtual executamos no terminal:
 
+```
 python3 -m venv my_venv
+```
+
 Com este comando, um ambiente virtual com o nome my_venv será gerado na forma de uma pasta com a seguinte estrutura:
 ```
 my_venv/
